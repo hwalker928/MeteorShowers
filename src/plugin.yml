@@ -1,0 +1,8 @@
+main : com.belmu.meteorshowers.Main
+name : Meteor
+version : 1.0
+author : Belmu
+description : A meteor shower plugin made by @Belmu_
+commands :
+  setalert :
+    description : Sets the meteor alert to the indicated one.
